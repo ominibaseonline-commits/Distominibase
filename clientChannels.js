@@ -28,6 +28,12 @@ window.__OB_CHANNELS = {
 
   clients: [
     // ADD-NEW-CLIENTS-BELOW
+    {
+      name: 'ominibase',
+      keyHash: 'a7a51a0722c4aa21c0274bfb6ef7c5a57487b3aa78df83cff5980aa252b0b278',
+      supabaseUrl: 'https://lpogisyrfilhhjvllgzv.supabase.co',
+      supabaseAnonKey: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imxwb2dpc3lyZmlsaGhqdmxsZ3p2Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTI4MTYxNDksImV4cCI6MjEwODM5MjE0OX0.mKAb9qaCvR7D4peoGREVIhD3G5xRjTrW-wk7WxUAQCc',
+    },
     // {
     //   name: 'Example Dance Academy',
     //   keyHash: '3f1c...64 hex characters...',
